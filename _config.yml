@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 0.4541371
+  lightness: 0.02452845
+  brandStrength: 0.4659498
+  brandColors:
+    - '#000000'
+    - '#4D97EE'
+    - '#FE5C5A'
+    - '#3BF9FE'
+    - '#E1B2E0'
+  rhythmicContrast: 0.8407198
+name: MadRez
