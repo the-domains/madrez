@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0
 color:
   saturation: 0.1953405
@@ -24,3 +12,16 @@ color:
   rhythmicContrast: 0.8407198
 layout_spectrum: 1
 name: MadRez
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: My ideas
