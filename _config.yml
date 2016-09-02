@@ -1,4 +1,3 @@
-layout_spectrum: 0.962323076557368
 typography_spectrum: 0.6859567076899111
 color:
   saturation: 0.12709636450745165
@@ -11,7 +10,12 @@ color:
     - '#3498DB'
     - '#2980B9'
   rhythmicContrast: 0.5594328127335757
+layout_spectrum: 0.962323076557368
 name: MadRez
+navigation:
+  - name: LinkedIn
+    url: www.linkedin.com/in/mrfallah
+    type: external
 collections:
   - index:
       path: /
