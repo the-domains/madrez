@@ -16,6 +16,9 @@ navigation:
   - name: LinkedIn
     url: www.linkedin.com/in/mrfallah
     type: external
+  - name: Facebook
+    url: 'http://www.facebook.com/mr.madrez'
+    type: external
 collections:
   - index:
       path: /
