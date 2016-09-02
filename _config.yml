@@ -1,16 +1,16 @@
-typography_spectrum: 0
+layout_spectrum: 0.962323076557368
+typography_spectrum: 0.6859567076899111
 color:
-  saturation: 0.1953405
-  brandStrength: 0.5716846
-  lightness: 0.1451613
+  saturation: 0.12709636450745165
+  brandStrength: 0.8279152323957533
+  lightness: 0.430838811211288
   brandColors:
-    - '#000000'
-    - '#4D97EE'
-    - '#FE5C5A'
-    - '#3BF9FE'
-    - '#E1B2E0'
-  rhythmicContrast: 0.8407198
-layout_spectrum: 1
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.5594328127335757
 name: MadRez
 collections:
   - index:
